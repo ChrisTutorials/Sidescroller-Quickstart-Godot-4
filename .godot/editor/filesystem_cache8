@@ -1,0 +1,74 @@
+2a60927148abd1d33b818b535e306557
+::res://::1680101870
+icon.svg::CompressedTexture2D::1701750855830309230::1680079910::1680079915::1::::<><>::
+::res://Art/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Assets/::1680080023
+Buildings.png::CompressedTexture2D::997913607088430090::1664876152::1680080023::1::::<><>::
+Hive.png::CompressedTexture2D::7632717419181089436::1664876012::1680080023::1::::<><>::
+Interior-01.png::CompressedTexture2D::595940038258755958::1667212530::1680080023::1::::<><>::
+Props-Rocks.png::CompressedTexture2D::1300457191772675777::1664875804::1680080023::1::::<><>::
+Tiles.png::CompressedTexture2D::5689280660012694011::1667212574::1680080023::1::::<><>::
+Tree-Assets.png::CompressedTexture2D::3305120618442832484::1667212590::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Background/::1680080023
+Background.png::CompressedTexture2D::5931952589145511003::1667213246::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Attack-01/::1680080023
+Attack-01-Sheet.png::CompressedTexture2D::6341609524455420751::1657198256::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Dead/::1680080023
+Dead-Sheet.png::CompressedTexture2D::2488385203063785259::1657201208::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Idle/::1680080023
+Idle-Sheet.png::CompressedTexture2D::5187023830607867703::1657189676::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Jumlp-All/::1680080023
+Jump-All-Sheet.png::CompressedTexture2D::5357150941567220519::1657201236::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Jump/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Jump-End/::1680080023
+Jump-End-Sheet.png::CompressedTexture2D::4218402246661831272::1657201370::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Jump-Start/::1680080023
+Jump-Start-Sheet.png::CompressedTexture2D::3393254371340760339::1657201316::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Character/Run/::1680080023
+Run-Sheet.png::CompressedTexture2D::3894049426926032671::1657189642::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/HUD/::1680080023
+Base-01.png::CompressedTexture2D::1250356609254411910::1656566166::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/::1680080023
+Hit-Sheet-Black.png::CompressedTexture2D::6193030836201351527::1663999824::1680080023::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::4665642629827363694::1663999854::1680080023::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::8529473215053149067::1656655142::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/::1680080023
+Idle-Sheet-export-Back.png::CompressedTexture2D::8965414229203550015::1663999736::1680080023::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::2625431362401288147::1663999774::1680080023::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::4292870332630668655::1656655170::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/::1680080023
+Run-Sheet-Black.png::CompressedTexture2D::1785095167410539697::1663999552::1680080023::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::7142591535767447481::1663999604::1680080023::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::4178098077550704412::1656655190::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/::1680080023
+Walk-Base-Sheet-White.png::CompressedTexture2D::8151296800094190091::1663999692::1680080023::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::3987109924913138958::1656655216::1680080023::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::3182201092353896244::1663999646::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/::1680080018
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Attack/::1680080023
+Attack-Sheet.png::CompressedTexture2D::4354121971477793947::1664529746::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Fly/::1680080023
+Fly-Sheet.png::CompressedTexture2D::4767564822387117843::1664529762::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/::1680080023
+Hit-Sheet.png::CompressedTexture2D::5452094508903461042::1664529782::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Mob/Snail/::1680080023
+all.png::CompressedTexture2D::8054876573860061089::1635487646::1680080023::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::6404296358114744745::1635487646::1680080023::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::5014819080677533809::1635487646::1680080023::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::8229153007894133143::1635487646::1680080023::1::::<><>::
+::res://Art/Legacy-Fantasy - High Forest 2.3/Trees/::1680080023
+Background.png::CompressedTexture2D::6370310305224492402::1664876280::1680080023::1::::<><>::
+Dark-Tree.png::CompressedTexture2D::7657799648740539260::1657206236::1680080023::1::::<><>::
+Golden-Tree.png::CompressedTexture2D::6878549809411101730::1657001118::1680080023::1::::<><>::
+Green-Tree.png::CompressedTexture2D::725885093742723659::1657000632::1680080023::1::::<><>::
+Red-Tree.png::CompressedTexture2D::1209529535376390761::1657001132::1680080023::1::::<><>::
+Yellow-Tree.png::CompressedTexture2D::1752902837429214101::1657000764::1680080023::1::::<><>::
+::res://Character/::1680087701
+player.gd::GDScript::-1::1680087423::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1661849364936379042::1680087701::0::1::::<><>::res://Character/player.gd<>uid://cf5vr3rdkcdr0<>uid://bvqkoppprkbil<>uid://b1dop62ij8uuy<>uid://bolynyyobgkop<>uid://cilbq1jmxocd0
+::res://Levels/::1680087701
+test_level.tscn::PackedScene::8026915360369246657::1680087701::0::1::::<><>::uid://cnb6vef35n3ad<>uid://xxaoff7gwbrm
