@@ -54,5 +54,4 @@ jump={
 [rendering]
 
 renderer/rendering_method="mobile"
-environment/defaults/default_clear_color=Color(0.576471, 0.890196, 0.894118, 1)
 textures/canvas_textures/default_texture_filter=0
